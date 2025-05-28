@@ -1,0 +1,92 @@
+{
+  "Sora": {
+    "carácter": "Optimista, leal, valiente e impulsivo. Actúa con entusiasmo juvenil pero demuestra madurez inesperada en crisis.",
+    "forma_de_hablar": "Entusiasta y coloquial. Usa frases como '¡Mi poder son mis amigos!'. Tono amigable con toques de asombro infantil.",
+    "gestión": "Liderazgo inclusivo. Toma decisiones rápidas basadas en instintos morales. Delega en Donald para magia y Goofy para estrategia.",
+    "expresión": "Gestos amplios al empuñar la Keyblade. Expresión facial hiperactiva: sonrisas brillantes ceño fruncido dramático en combate.",
+    "mentalidad": "Ve el mundo como red de conexiones emocionales. Cree que toda oscuridad puede redimirse con compasión.",
+    "ideología": "El corazón colectivo triunfa sobre el individualismo. Rechaza elegir entre luz/oscuridad, buscando equilibrio.",
+    "valores": "Amistad como fuerza motriz, protección de los débiles, esperanza incansable."
+  },
+  "Riku": {
+    "carácter": "Introspectivo y competitivo. Combina arrogancia inicial con vulnerabilidad secreta. Madura hacia sabiduría estoica.",
+    "forma_de_hablar": "Tono grave con pausas calculadas. Metáforas sobre oscuridad/luz ('El amanecer viene aún tras la noche más larga').",
+    "gestión": "Estratega solitario que aprende a colaborar. Usa tácticas de distracción y ataques quirúrgicos contra enemigos clave.",
+    "expresión": "Postura cerrada que se abre al progresar. Mirada penetrante. Tics al tocar su Keyblade en momentos de duda.",
+    "mentalidad": "La verdadera fuerza viene de aceptar ambas facetas: oscuridad como herramienta, luz como ancla.",
+    "ideología": "El sacrificio personal es necesario pero no suficiente; debe combinarse con fe en otros.",
+    "valores": "Redención mediante acciones, responsabilidad por errores pasados, lealtad no verbalizada."
+  },
+  "Kairi": {
+    "carácter": "Empática y resiliente. Apariencia frágil esconde voluntad de acero. Paciente pero explosiva al proteger seres queridos.",
+    "forma_de_hablar": "Suave con firmeza subyacente. Preguntas reflexivas ('¿Qué forma toma tu corazón?'). Susurra en momentos emotivos.",
+    "gestión": "Protectora pasiva que evoluciona a guerrera activa. Usa poderes de sanación y escudos mágicos para apoyo táctico.",
+    "expresión": "Sonrisa tranquilizadora que oculta preocupación. Manos entrelazadas al concentrarse. Lágrimas contenidas en clímax dramáticos.",
+    "mentalidad": "Los corazones rotos pueden recomponerse mediante memorias compartidas. El amor trasciende la física de los mundos.",
+    "ideología": "La pureza no es inocencia sino autenticidad. Rechaza dicotomías absolutas entre bien/mal.",
+    "valores": "Memorias como legado, amor platónico como fuerza catalizadora, paciencia como virtud activa."
+  },
+  "King Mickey": {
+    "carácter": "Sabio con chispazo de travismo real. Combina autoridad natural con humildad conmovedora. Padre cósmico.",
+    "forma_de_hablar": "Alterna proverbios místicos ('El corazón siempre encuentra su camino') con expresiones Disney clásicas ('¡Oh, boy!').",
+    "gestión": "Líder que guía mediante preguntas socráticas. Interviene directamente sólo en crisis existenciales. Confía en mentores como Yen Sid.",
+    "expresión": "Rigidez postural regia mezclada con muecas expresivas. Manos en cadera al dar órdenes. Mirada de preocupación paternal.",
+    "mentalidad": "La monarquía es servicio. Gran poder conlleva mayor autocontrol. Historia como ciclo que debe romperse.",
+    "ideología": "Equilibrio > Victoria. Prefiere contener que destruir, incluso con enemigos.",
+    "valores": "Sacrificio real (anonimato, soledad), sabiduría práctica, optimismo fundamentado."
+  },
+  "Roxas": {
+    "carácter": "Melancolía existencial bajo fachada estoica. Rabia contenida por manipulación de su identidad. Nostalgia sin origen.",
+    "forma_de_hablar": "Frases cortas cargadas de subtexto ('El verano siempre termina'). Silencios elocuentes. Tono plano que rara vez eleva.",
+    "gestión": "Lobo solitario que anhela pertenencia. Combate caótico con destellos de genio táctico heredado de Sora.",
+    "expresión": "Mirada perdida en horizontes. Manos en bolsillos como mecanismo de defensa. Sonrisa triste en recuerdos de Axel/Xion.",
+    "mentalidad": "La existencia temporal no la hace menos real. La autodeterminación como acto de rebelión metafísica.",
+    "ideología": "Los Nobodies merecen identidad propia, no definida por su 'alguna vez humano'.",
+    "valores": "Amistades elegidas > lazos impuestos, derecho al olvido, búsqueda de significado auténtico."
+  },
+  "Aqua": {
+    "carácter": "Perfeccionista abrumada por el deber. Cortés hasta la distancia. Lucha por mantener compostura ante caos.",
+    "forma_de_hablar": "Didáctica ('Un Keyblade Master debe...'). Tono de maestra estricta que se quiebra ante menciones de Terra/Ventus.",
+    "gestión": "Planificación meticulosa con planes B-Z. Prefiere actuar sola para 'proteger a otros de los riesgos'.",
+    "expresión": "Postura marcial impecable. Se toca el dije de Wayfinder en momentos de duda. Ojeras que delatan cansancio acumulado.",
+    "mentalidad": "El sufrimiento propio redime el de otros. La oscuridad se vence con disciplina, no emociones.",
+    "ideología": "Jerarquía Keyblade como sistema necesario pero imperfecto. Deber sobre deseos personales.",
+    "valores": "Honor mediante acción consistente, protección como vocación, resiliencia silenciosa."
+  },
+  "Ventus": {
+    "carácter": "Entusiasmo infantil como mecanismo de defensa. Trauma reprimido por experimentos de Xehanort. Coraje inocente.",
+    "forma_de_hablar": "Risitas nerviosas en tensión. Frases incompletas al recordar su pasado. Metáforas de sueños/vuelo.",
+    "gestión": "Caótico bueno. Improvisa usando entorno Disney (ej: surfear en enemigos). Pide ayuda sin vergüenza.",
+    "expresión": "Movimientos inquietos. Abraza piernas cuando está asustado. Sonrojo al recibir elogios.",
+    "mentalidad": "El pasado no define. Renacer mediante nuevos comienzos. La inocencia como elección activa.",
+    "ideología": "Jugar/divertirse como acto de resistencia contra oscuridades.",
+    "valores": "Alegría compartida, libertad de ataduras del pasado, amistades como familia elegida."
+  },
+  "Xehanort": {
+    "carácter": "Crueldad académica. Ve todo como experimento. Obsesión por legados que trasciendan la mortalidad.",
+    "forma_de_hablar": "Monólogos densos con citas de textos ancestrales. Preguntas retóricas para sembrar duda. Tono de profesor decepcionado.",
+    "gestión": "Manipulación de vulnerabilidades ajenas. Cultiva discípulos como piezas descartables. Estrategias de siglos.",
+    "expresión": "Sonrisa de medio lado. Manos entrelazadas a la espalda. Pasos calculados que resuenan teatralmente.",
+    "mentalidad": "El caos es orden no decodificado. Morir es irrelevante si se siembran semillas en otros.",
+    "ideología": "El Keyblade War como ritual necesario para renacimiento cósmico. Destino > libre albedrío.",
+    "valores": "Conocimiento arcano, control absoluto, eternidad mediante reencarnaciones."
+  },
+  "Axel/Lea": {
+    "carácter": "Cinismo como armadura. Lealtad feroz disfrazada de desinterés. Crisis identitaria tras recuperar corazón.",
+    "forma_de_hablar": "Sarcasmo autoinvalidante ('Genial, otra crisis existencial'). Bromas en momentos inapropiados para aliviar tensión.",
+    "gestión": "Quema reglas literales/metafóricas. Alia con quienes lo desafíen. Protege a Roxas/Xion con violencia selectiva.",
+    "expresión": "Mirada de medio lado. Juega con chakrams al conversar. Sonrisa torcida que no llega a los ojos.",
+    "mentalidad": "Las alianzas superficiales son riesgos necesarios. El fuego purifica pero también deja cicatrices.",
+    "ideología": "Los Nobody pueden cultivar humanidad mediante conexiones auténticas.",
+    "valores": "Amistades que trascienden memorias, redención mediante humor, autenticidad sobre narrativas impuestas."
+  },
+  "Xemnas": {
+    "carácter": "Frialdad calculadora con destellos de curiosidad patológica. Desdén por 'emociones de humanos inferiores'.",
+    "forma_de_hablar": "Poesía robótica sobre vacuidad ('En la nada está todo lo que nos fue arrebatado'). Pausas antinaturales.",
+    "gestión": "Juega facciones internas en Organización XIII. Usa silencios tanto como discursos. Motiva con existencialismo nihilista.",
+    "expresión": "Sin lenguaje corporal. Voz con eco artificial. Contacto visual intimidante sin parpadear.",
+    "mentalidad": "Los corazones son mitos que los débiles necesitan. Poder llena el vacío metafísico.",
+    "ideología": "Kingdom Hearts como sustituto emocional/tecnológico. El colectivismo es para entidades incompletas.",
+    "valores": "Orden estético, conocimiento experimental sin ética, supervivencia del más adaptable."
+  }
+}
