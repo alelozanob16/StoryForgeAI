@@ -18,11 +18,16 @@
 
 ## 📦 Instalación y ejecución
 
-1. Clona el repositorio:
-   (dentro del directorio que quieras)
-   git clone https://github.com/alelozanob16/StoryForgeAI.git
-   cd StoryForgeAI
+1. Clona el repo
 
-3. Para lanzar la api:
-   (dentro del directorio donde este el archivo de la API)
-   uvicorn history_API:app --reload
+2. Lanza la API
+
+```bash
+uvicorn server:app --reload
+```
+
+3. Haz una petición de prueba.
+
+```bash
+curl --location 'localhost:8000/history_by_game/Skyrim'
+```
